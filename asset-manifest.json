@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WEB_All_Movies/static/css/main.b381a21b.css",
+    "main.js": "/WEB_All_Movies/static/js/main.dc2d1a69.js",
+    "index.html": "/WEB_All_Movies/index.html",
+    "main.b381a21b.css.map": "/WEB_All_Movies/static/css/main.b381a21b.css.map",
+    "main.dc2d1a69.js.map": "/WEB_All_Movies/static/js/main.dc2d1a69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b381a21b.css",
+    "static/js/main.dc2d1a69.js"
+  ]
+}
