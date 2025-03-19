@@ -2,7 +2,7 @@
   "name": "all_movies_project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://Ridavio7.github.io/WEB_All_Movies",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -18,7 +18,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "preserve": "npm run build",
+    "serve": "serve -s build"
   },
   "eslintConfig": {
     "extends": [
